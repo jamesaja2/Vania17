@@ -405,7 +405,7 @@ const SweetSeventeenInvitation = () => {
                   <span className="text-4xl">🕐</span>
                 </div>
                 <div>
-                  <p className="font-bold text-2xl mb-2" style={{ color: '#7A5F42' }}>16:30 WIB</p>
+                  <p className="font-bold text-2xl mb-2" style={{ color: '#7A5F42' }}>11:30-15:30 WIB</p>
                   <p className="text-lg" style={{ color: '#8B7355' }}>Don't be late! 🕔</p>
                 </div>
               </div>
